@@ -19,6 +19,8 @@ class HomePage:
     def shopItems(self):
         self.driver.find_element(*HomePage.shop).click()
         checkOutPage = CheckOutPage(self.driver)
+        print("hello")
+        print("hello132")
         return checkOutPage
 
     def getName(self):
