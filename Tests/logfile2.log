@@ -1,0 +1,243 @@
+2023-10-18 22:18:35,731:DEBUG:utilities.BaseClass:A debug stmt is executed
+2023-10-18 22:18:35,731:INFO:utilities.BaseClass:Information stmt
+2023-10-18 22:18:35,731:DEBUG:utilities.BaseClass:A debug stmt is executed
+2023-10-18 22:18:35,731:WARNING:utilities.BaseClass:something is in warning mode
+2023-10-18 22:18:35,731:ERROR:utilities.BaseClass:A major error has happened
+2023-10-18 22:18:35,731:CRITICAL:utilities.BaseClass:critical issue
+2023-10-18 22:25:10,956:DEBUG:utilities.BaseClass:A debug stmt is executed
+2023-10-18 22:25:10,956:INFO:utilities.BaseClass:Information stmt
+2023-10-18 22:25:10,956:DEBUG:utilities.BaseClass:A debug stmt is executed
+2023-10-18 22:25:10,956:WARNING:utilities.BaseClass:something is in warning mode
+2023-10-18 22:25:10,957:ERROR:utilities.BaseClass:A major error has happened
+2023-10-18 22:25:10,957:CRITICAL:utilities.BaseClass:critical issue
+2023-10-18 22:29:53,271:INFO:utilities.BaseClass:Getting the info
+2023-10-18 22:29:53,289:INFO:utilities.BaseClass:iphone X
+2023-10-18 22:29:53,301:INFO:utilities.BaseClass:Samsung Note 8
+2023-10-18 22:29:53,313:INFO:utilities.BaseClass:Nokia Edge
+2023-10-18 22:29:53,323:INFO:utilities.BaseClass:Blackberry
+2023-10-18 22:29:53,523:INFO:utilities.BaseClass:entering country name as india
+2023-10-18 22:30:09,024:INFO:utilities.BaseClass:text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-18 22:39:00,273:INFO:utilities.BaseClass:Getting the info
+2023-10-18 22:39:00,291:INFO:utilities.BaseClass:iphone X
+2023-10-18 22:39:00,304:INFO:utilities.BaseClass:Samsung Note 8
+2023-10-18 22:39:00,314:INFO:utilities.BaseClass:Nokia Edge
+2023-10-18 22:39:00,325:INFO:utilities.BaseClass:Blackberry
+2023-10-18 22:39:00,534:INFO:utilities.BaseClass:entering country name as india
+2023-10-18 22:39:16,036:INFO:utilities.BaseClass:text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-23 22:26:57,299:INFO:utilities.BaseClass:Getting the email address
+2023-10-23 22:27:01,181:INFO:utilities.BaseClass:Getting the email address
+2023-10-23 22:27:01,181:INFO:utilities.BaseClass:Getting the email address
+2023-10-23 22:27:09,449:INFO:utilities.BaseClass:getting all the card titles
+2023-10-23 22:27:09,449:INFO:utilities.BaseClass:getting all the card titles
+2023-10-23 22:27:09,449:INFO:utilities.BaseClass:getting all the card titles
+2023-10-23 22:27:09,499:INFO:utilities.BaseClass:iphone X
+2023-10-23 22:27:09,499:INFO:utilities.BaseClass:iphone X
+2023-10-23 22:27:09,499:INFO:utilities.BaseClass:iphone X
+2023-10-23 22:27:09,515:INFO:utilities.BaseClass:Samsung Note 8
+2023-10-23 22:27:09,515:INFO:utilities.BaseClass:Samsung Note 8
+2023-10-23 22:27:09,515:INFO:utilities.BaseClass:Samsung Note 8
+2023-10-23 22:27:09,521:INFO:utilities.BaseClass:Nokia Edge
+2023-10-23 22:27:09,521:INFO:utilities.BaseClass:Nokia Edge
+2023-10-23 22:27:09,521:INFO:utilities.BaseClass:Nokia Edge
+2023-10-23 22:27:09,535:INFO:utilities.BaseClass:Blackberry
+2023-10-23 22:27:09,535:INFO:utilities.BaseClass:Blackberry
+2023-10-23 22:27:09,535:INFO:utilities.BaseClass:Blackberry
+2023-10-23 22:27:14,093:INFO:utilities.BaseClass:Getting the info
+2023-10-23 22:27:14,093:INFO:utilities.BaseClass:Getting the info
+2023-10-23 22:27:14,093:INFO:utilities.BaseClass:Getting the info
+2023-10-23 22:27:14,093:INFO:utilities.BaseClass:Getting the info
+2023-10-23 22:27:14,124:INFO:utilities.BaseClass:iphone X
+2023-10-23 22:27:14,124:INFO:utilities.BaseClass:iphone X
+2023-10-23 22:27:14,124:INFO:utilities.BaseClass:iphone X
+2023-10-23 22:27:14,124:INFO:utilities.BaseClass:iphone X
+2023-10-23 22:27:14,151:INFO:utilities.BaseClass:Samsung Note 8
+2023-10-23 22:27:14,151:INFO:utilities.BaseClass:Samsung Note 8
+2023-10-23 22:27:14,151:INFO:utilities.BaseClass:Samsung Note 8
+2023-10-23 22:27:14,151:INFO:utilities.BaseClass:Samsung Note 8
+2023-10-23 22:27:14,177:INFO:utilities.BaseClass:Nokia Edge
+2023-10-23 22:27:14,177:INFO:utilities.BaseClass:Nokia Edge
+2023-10-23 22:27:14,177:INFO:utilities.BaseClass:Nokia Edge
+2023-10-23 22:27:14,177:INFO:utilities.BaseClass:Nokia Edge
+2023-10-23 22:27:14,196:INFO:utilities.BaseClass:Blackberry
+2023-10-23 22:27:14,196:INFO:utilities.BaseClass:Blackberry
+2023-10-23 22:27:14,196:INFO:utilities.BaseClass:Blackberry
+2023-10-23 22:27:14,196:INFO:utilities.BaseClass:Blackberry
+2023-10-23 22:27:14,463:INFO:utilities.BaseClass:entering country name as india
+2023-10-23 22:27:14,463:INFO:utilities.BaseClass:entering country name as india
+2023-10-23 22:27:14,463:INFO:utilities.BaseClass:entering country name as india
+2023-10-23 22:27:14,463:INFO:utilities.BaseClass:entering country name as india
+2023-10-23 22:27:29,939:INFO:utilities.BaseClass:text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-23 22:27:29,939:INFO:utilities.BaseClass:text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-23 22:27:29,939:INFO:utilities.BaseClass:text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-23 22:27:29,939:INFO:utilities.BaseClass:text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-23 22:33:09,627:INFO:utilities.BaseClass:Getting the email address
+2023-10-23 22:33:13,393:INFO:utilities.BaseClass:Getting the email address
+2023-10-23 22:33:13,393:INFO:utilities.BaseClass:Getting the email address
+2023-10-23 22:33:21,333:INFO:utilities.BaseClass:Getting the info
+2023-10-23 22:33:21,333:INFO:utilities.BaseClass:Getting the info
+2023-10-23 22:33:21,333:INFO:utilities.BaseClass:Getting the info
+2023-10-23 22:33:21,370:INFO:utilities.BaseClass:iphone X
+2023-10-23 22:33:21,370:INFO:utilities.BaseClass:iphone X
+2023-10-23 22:33:21,370:INFO:utilities.BaseClass:iphone X
+2023-10-23 22:33:21,405:INFO:utilities.BaseClass:Samsung Note 8
+2023-10-23 22:33:21,405:INFO:utilities.BaseClass:Samsung Note 8
+2023-10-23 22:33:21,405:INFO:utilities.BaseClass:Samsung Note 8
+2023-10-23 22:33:21,429:INFO:utilities.BaseClass:Nokia Edge
+2023-10-23 22:33:21,429:INFO:utilities.BaseClass:Nokia Edge
+2023-10-23 22:33:21,429:INFO:utilities.BaseClass:Nokia Edge
+2023-10-23 22:33:21,463:INFO:utilities.BaseClass:Blackberry
+2023-10-23 22:33:21,463:INFO:utilities.BaseClass:Blackberry
+2023-10-23 22:33:21,463:INFO:utilities.BaseClass:Blackberry
+2023-10-23 22:33:21,775:INFO:utilities.BaseClass:entering country name as india
+2023-10-23 22:33:21,775:INFO:utilities.BaseClass:entering country name as india
+2023-10-23 22:33:21,775:INFO:utilities.BaseClass:entering country name as india
+2023-10-23 22:33:37,320:INFO:utilities.BaseClass:text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-23 22:33:37,320:INFO:utilities.BaseClass:text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-23 22:33:37,320:INFO:utilities.BaseClass:text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-23 23:34:20,076:INFO:utilities.BaseClass:Getting the email address
+2023-10-23 23:34:23,796:INFO:utilities.BaseClass:Getting the email address
+2023-10-23 23:34:23,796:INFO:utilities.BaseClass:Getting the email address
+2023-10-23 23:34:30,953:INFO:utilities.BaseClass:Getting the info
+2023-10-23 23:34:30,953:INFO:utilities.BaseClass:Getting the info
+2023-10-23 23:34:30,953:INFO:utilities.BaseClass:Getting the info
+2023-10-23 23:34:30,975:INFO:utilities.BaseClass:iphone X
+2023-10-23 23:34:30,975:INFO:utilities.BaseClass:iphone X
+2023-10-23 23:34:30,975:INFO:utilities.BaseClass:iphone X
+2023-10-23 23:34:30,987:INFO:utilities.BaseClass:Samsung Note 8
+2023-10-23 23:34:30,987:INFO:utilities.BaseClass:Samsung Note 8
+2023-10-23 23:34:30,987:INFO:utilities.BaseClass:Samsung Note 8
+2023-10-23 23:34:31,001:INFO:utilities.BaseClass:Nokia Edge
+2023-10-23 23:34:31,001:INFO:utilities.BaseClass:Nokia Edge
+2023-10-23 23:34:31,001:INFO:utilities.BaseClass:Nokia Edge
+2023-10-23 23:34:31,015:INFO:utilities.BaseClass:Blackberry
+2023-10-23 23:34:31,015:INFO:utilities.BaseClass:Blackberry
+2023-10-23 23:34:31,015:INFO:utilities.BaseClass:Blackberry
+2023-10-23 23:34:31,261:INFO:utilities.BaseClass:entering country name as india
+2023-10-23 23:34:31,261:INFO:utilities.BaseClass:entering country name as india
+2023-10-23 23:34:31,261:INFO:utilities.BaseClass:entering country name as india
+2023-10-23 23:34:46,588:INFO:utilities.BaseClass:text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-23 23:34:46,588:INFO:utilities.BaseClass:text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-23 23:34:46,588:INFO:utilities.BaseClass:text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-23 23:40:49,709:INFO:utilities.BaseClass:Getting the email address
+2023-10-23 23:40:53,344:INFO:utilities.BaseClass:Getting the email address
+2023-10-23 23:40:53,344:INFO:utilities.BaseClass:Getting the email address
+2023-10-23 23:41:00,738:INFO:utilities.BaseClass:Getting the info
+2023-10-23 23:41:00,738:INFO:utilities.BaseClass:Getting the info
+2023-10-23 23:41:00,738:INFO:utilities.BaseClass:Getting the info
+2023-10-23 23:41:00,773:INFO:utilities.BaseClass:iphone X
+2023-10-23 23:41:00,773:INFO:utilities.BaseClass:iphone X
+2023-10-23 23:41:00,773:INFO:utilities.BaseClass:iphone X
+2023-10-23 23:41:00,804:INFO:utilities.BaseClass:Samsung Note 8
+2023-10-23 23:41:00,804:INFO:utilities.BaseClass:Samsung Note 8
+2023-10-23 23:41:00,804:INFO:utilities.BaseClass:Samsung Note 8
+2023-10-23 23:41:00,828:INFO:utilities.BaseClass:Nokia Edge
+2023-10-23 23:41:00,828:INFO:utilities.BaseClass:Nokia Edge
+2023-10-23 23:41:00,828:INFO:utilities.BaseClass:Nokia Edge
+2023-10-23 23:41:00,853:INFO:utilities.BaseClass:Blackberry
+2023-10-23 23:41:00,853:INFO:utilities.BaseClass:Blackberry
+2023-10-23 23:41:00,853:INFO:utilities.BaseClass:Blackberry
+2023-10-23 23:41:01,131:INFO:utilities.BaseClass:entering country name as india
+2023-10-23 23:41:01,131:INFO:utilities.BaseClass:entering country name as india
+2023-10-23 23:41:01,131:INFO:utilities.BaseClass:entering country name as india
+2023-10-23 23:41:16,474:INFO:utilities.BaseClass:text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-23 23:41:16,474:INFO:utilities.BaseClass:text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-23 23:41:16,474:INFO:utilities.BaseClass:text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-23 23:56:52,569:INFO:utilities.BaseClass:Getting the email address
+2023-10-23 23:56:57,974:INFO:utilities.BaseClass:Getting the email address
+2023-10-23 23:56:57,974:INFO:utilities.BaseClass:Getting the email address
+2023-10-24 00:01:52,256:INFO:utilities.BaseClass:Getting the email address
+2023-10-24 00:01:57,728:INFO:utilities.BaseClass:Getting the email address
+2023-10-24 00:01:57,728:INFO:utilities.BaseClass:Getting the email address
+2023-10-24 00:02:12,745:INFO:utilities.BaseClass:Getting the info
+2023-10-24 00:02:12,745:INFO:utilities.BaseClass:Getting the info
+2023-10-24 00:02:12,745:INFO:utilities.BaseClass:Getting the info
+2023-10-24 00:02:12,772:INFO:utilities.BaseClass:iphone X
+2023-10-24 00:02:12,772:INFO:utilities.BaseClass:iphone X
+2023-10-24 00:02:12,772:INFO:utilities.BaseClass:iphone X
+2023-10-24 00:02:12,790:INFO:utilities.BaseClass:Samsung Note 8
+2023-10-24 00:02:12,790:INFO:utilities.BaseClass:Samsung Note 8
+2023-10-24 00:02:12,790:INFO:utilities.BaseClass:Samsung Note 8
+2023-10-24 00:02:12,799:INFO:utilities.BaseClass:Nokia Edge
+2023-10-24 00:02:12,799:INFO:utilities.BaseClass:Nokia Edge
+2023-10-24 00:02:12,799:INFO:utilities.BaseClass:Nokia Edge
+2023-10-24 00:02:12,799:INFO:utilities.BaseClass:Blackberry
+2023-10-24 00:02:12,799:INFO:utilities.BaseClass:Blackberry
+2023-10-24 00:02:12,799:INFO:utilities.BaseClass:Blackberry
+2023-10-24 00:02:13,506:INFO:utilities.BaseClass:entering country name as india
+2023-10-24 00:02:13,506:INFO:utilities.BaseClass:entering country name as india
+2023-10-24 00:02:13,506:INFO:utilities.BaseClass:entering country name as india
+2023-10-24 00:02:29,383:INFO:utilities.BaseClass:text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-24 00:02:29,383:INFO:utilities.BaseClass:text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-24 00:02:29,383:INFO:utilities.BaseClass:text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-24 00:16:00,860:INFO:utilities.BaseClass:Getting the email address
+2023-10-24 00:16:04,535:INFO:utilities.BaseClass:Getting the email address
+2023-10-24 00:16:04,535:INFO:utilities.BaseClass:Getting the email address
+2023-10-24 00:16:11,981:INFO:utilities.BaseClass:Getting the info
+2023-10-24 00:16:11,981:INFO:utilities.BaseClass:Getting the info
+2023-10-24 00:16:11,981:INFO:utilities.BaseClass:Getting the info
+2023-10-24 00:16:12,019:INFO:utilities.BaseClass:iphone X
+2023-10-24 00:16:12,019:INFO:utilities.BaseClass:iphone X
+2023-10-24 00:16:12,019:INFO:utilities.BaseClass:iphone X
+2023-10-24 00:16:12,046:INFO:utilities.BaseClass:Samsung Note 8
+2023-10-24 00:16:12,046:INFO:utilities.BaseClass:Samsung Note 8
+2023-10-24 00:16:12,046:INFO:utilities.BaseClass:Samsung Note 8
+2023-10-24 00:16:12,068:INFO:utilities.BaseClass:Nokia Edge
+2023-10-24 00:16:12,068:INFO:utilities.BaseClass:Nokia Edge
+2023-10-24 00:16:12,068:INFO:utilities.BaseClass:Nokia Edge
+2023-10-24 00:16:12,088:INFO:utilities.BaseClass:Blackberry
+2023-10-24 00:16:12,088:INFO:utilities.BaseClass:Blackberry
+2023-10-24 00:16:12,088:INFO:utilities.BaseClass:Blackberry
+2023-10-24 00:16:12,478:INFO:utilities.BaseClass:entering country name as india
+2023-10-24 00:16:12,478:INFO:utilities.BaseClass:entering country name as india
+2023-10-24 00:16:12,478:INFO:utilities.BaseClass:entering country name as india
+2023-10-24 00:16:27,954:INFO:utilities.BaseClass:text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-24 00:16:27,954:INFO:utilities.BaseClass:text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-24 00:16:27,954:INFO:utilities.BaseClass:text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-24 00:20:43,902:INFO:utilities.BaseClass:Getting the email address
+2023-10-24 00:20:47,649:INFO:utilities.BaseClass:Getting the email address
+2023-10-24 00:20:47,649:INFO:utilities.BaseClass:Getting the email address
+2023-10-24 00:20:54,910:INFO:utilities.BaseClass:Getting the info
+2023-10-24 00:20:54,910:INFO:utilities.BaseClass:Getting the info
+2023-10-24 00:20:54,910:INFO:utilities.BaseClass:Getting the info
+2023-10-24 00:20:54,942:INFO:utilities.BaseClass:iphone X
+2023-10-24 00:20:54,942:INFO:utilities.BaseClass:iphone X
+2023-10-24 00:20:54,942:INFO:utilities.BaseClass:iphone X
+2023-10-24 00:20:54,966:INFO:utilities.BaseClass:Samsung Note 8
+2023-10-24 00:20:54,966:INFO:utilities.BaseClass:Samsung Note 8
+2023-10-24 00:20:54,966:INFO:utilities.BaseClass:Samsung Note 8
+2023-10-24 00:20:54,988:INFO:utilities.BaseClass:Nokia Edge
+2023-10-24 00:20:54,988:INFO:utilities.BaseClass:Nokia Edge
+2023-10-24 00:20:54,988:INFO:utilities.BaseClass:Nokia Edge
+2023-10-24 00:20:55,012:INFO:utilities.BaseClass:Blackberry
+2023-10-24 00:20:55,012:INFO:utilities.BaseClass:Blackberry
+2023-10-24 00:20:55,012:INFO:utilities.BaseClass:Blackberry
+2023-10-24 00:20:55,301:INFO:utilities.BaseClass:entering country name as india
+2023-10-24 00:20:55,301:INFO:utilities.BaseClass:entering country name as india
+2023-10-24 00:20:55,301:INFO:utilities.BaseClass:entering country name as india
+2023-10-24 00:21:10,765:INFO:utilities.BaseClass:text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-24 00:21:10,765:INFO:utilities.BaseClass:text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-24 00:21:10,765:INFO:utilities.BaseClass:text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).

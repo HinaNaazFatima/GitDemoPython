@@ -1,0 +1,42 @@
+2023-10-18 21:58:49,340:DEBUG:utilities.BaseClass:A debug stamt is executed
+2023-10-18 21:58:49,340:INFO:utilities.BaseClass:Information stmt
+2023-10-18 21:58:49,340:DEBUG:utilities.BaseClass:A debug stmt is executed
+2023-10-18 21:58:49,340:WARNING:utilities.BaseClass:something is in warning mode
+2023-10-18 21:58:49,340:ERROR:utilities.BaseClass:A major error has happened
+2023-10-18 21:58:49,340:CRITICAL:utilities.BaseClass:critical issue
+2023-10-18 22:01:07,970:DEBUG:utilities.BaseClass:A debug stamt is executed
+2023-10-18 22:01:07,970:INFO:utilities.BaseClass:Information stmt
+2023-10-18 22:01:07,970:DEBUG:utilities.BaseClass:A debug stmt is executed
+2023-10-18 22:01:07,970:WARNING:utilities.BaseClass:something is in warning mode
+2023-10-18 22:01:07,971:ERROR:utilities.BaseClass:A major error has happened
+2023-10-18 22:01:07,971:CRITICAL:utilities.BaseClass:critical issue
+2023-10-18 22:01:55,456:DEBUG:utilities.BaseClass:A debug stamt is executed
+2023-10-18 22:01:55,457:INFO:utilities.BaseClass:Information stmt
+2023-10-18 22:01:55,457:DEBUG:utilities.BaseClass:A debug stmt is executed
+2023-10-18 22:01:55,457:WARNING:utilities.BaseClass:something is in warning mode
+2023-10-18 22:01:55,457:ERROR:utilities.BaseClass:A major error has happened
+2023-10-18 22:01:55,457:CRITICAL:utilities.BaseClass:critical issue
+2023-10-18 22:02:54,843:INFO:utilities.BaseClass:Information stmt
+2023-10-18 22:02:54,844:WARNING:utilities.BaseClass:something is in warning mode
+2023-10-18 22:02:54,844:ERROR:utilities.BaseClass:A major error has happened
+2023-10-18 22:02:54,844:CRITICAL:utilities.BaseClass:critical issue
+2023-10-18 22:02:55,110:INFO:utilities.BaseClass:Information stmt
+2023-10-18 22:02:55,110:INFO:utilities.BaseClass:Information stmt
+2023-10-18 22:02:55,110:WARNING:utilities.BaseClass:something is in warning mode
+2023-10-18 22:02:55,110:WARNING:utilities.BaseClass:something is in warning mode
+2023-10-18 22:02:55,110:ERROR:utilities.BaseClass:A major error has happened
+2023-10-18 22:02:55,110:ERROR:utilities.BaseClass:A major error has happened
+2023-10-18 22:02:55,110:CRITICAL:utilities.BaseClass:critical issue
+2023-10-18 22:02:55,110:CRITICAL:utilities.BaseClass:critical issue
+2023-10-18 22:04:38,048:INFO:utilities.BaseClass:Information stmt
+2023-10-18 22:04:38,048:WARNING:utilities.BaseClass:something is in warning mode
+2023-10-18 22:04:38,049:ERROR:utilities.BaseClass:A major error has happened
+2023-10-18 22:04:38,049:CRITICAL:utilities.BaseClass:critical issue
+2023-10-18 22:05:24,358:INFO:utilities.BaseClass:Information stmt
+2023-10-18 22:05:24,358:WARNING:utilities.BaseClass:something is in warning mode
+2023-10-18 22:05:24,358:ERROR:utilities.BaseClass:A major error has happened
+2023-10-18 22:05:24,358:CRITICAL:utilities.BaseClass:critical issue
+2023-10-18 22:13:46,768:INFO:utilities.BaseClass:Information stmt
+2023-10-18 22:13:46,768:WARNING:utilities.BaseClass:something is in warning mode
+2023-10-18 22:13:46,768:ERROR:utilities.BaseClass:A major error has happened
+2023-10-18 22:13:46,768:CRITICAL:utilities.BaseClass:critical issue
